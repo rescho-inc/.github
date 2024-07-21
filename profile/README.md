@@ -1,5 +1,7 @@
 <h1 align="center">Rescho inc.</h1>
 
+<img src="./waroku_hk.webp" alt="warokuhk" />
+
 <!--
 
 **Here are some ideas to get you started:**
