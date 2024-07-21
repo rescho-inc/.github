@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Rescho inc.</h1>
 
 <!--
 
