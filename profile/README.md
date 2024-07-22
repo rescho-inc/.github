@@ -1,6 +1,7 @@
-<h1 align="center">Rescho inc.</h1>
-
-<img src="./waroku_hk.webp" alt="warokuhk" />
+<div align="center">
+  <img src="./logo_rescho_tis_intec_group.png" alt="warokuhk" />
+  <img src="./waroku_hk.webp" alt="warokuhk" />
+</div>
 
 <!--
 
